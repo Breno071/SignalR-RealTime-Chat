@@ -20,7 +20,7 @@ namespace ChatServidor
       services.AddCors(options =>
       {
         options.AddPolicy("CorsPolicy", builder => builder
-        .WithOrigins("http://localhost:4200", "http://localhost:3000")
+        .WithOrigins("http://localhost:4200", "http://localhost:3000", "https://breno071.github.io")
         .AllowAnyMethod()
         .AllowAnyHeader()
         .AllowCredentials()

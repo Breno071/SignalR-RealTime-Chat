@@ -20,3 +20,13 @@ D:\Narde\Visual Studio\Projects\ChatServidor\obj\Debug\net5.0\ChatServidor.dll
 D:\Narde\Visual Studio\Projects\ChatServidor\obj\Debug\net5.0\ref\ChatServidor.dll
 D:\Narde\Visual Studio\Projects\ChatServidor\obj\Debug\net5.0\ChatServidor.pdb
 D:\Narde\Visual Studio\Projects\ChatServidor\obj\Debug\net5.0\ChatServidor.genruntimeconfig.cache
+D:\Narde\Visual Studio\Projects\ChatServidor\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\Narde\Visual Studio\Projects\ChatServidor\bin\Debug\net5.0\Microsoft.Azure.SignalR.Common.dll
+D:\Narde\Visual Studio\Projects\ChatServidor\bin\Debug\net5.0\Microsoft.Azure.SignalR.dll
+D:\Narde\Visual Studio\Projects\ChatServidor\bin\Debug\net5.0\Microsoft.Azure.SignalR.Protocols.dll
+D:\Narde\Visual Studio\Projects\ChatServidor\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Narde\Visual Studio\Projects\ChatServidor\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Narde\Visual Studio\Projects\ChatServidor\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Narde\Visual Studio\Projects\ChatServidor\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Narde\Visual Studio\Projects\ChatServidor\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Narde\Visual Studio\Projects\ChatServidor\obj\Debug\net5.0\ChatServidor.csproj.CopyComplete
